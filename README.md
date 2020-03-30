@@ -1,5 +1,10 @@
 # MVC Intro
 
+* This repository has a database with the following association:
+    * Airline -< Tickets
+* The Database has already been migrated and seeded
+* Run `shotgun` in the terminal to start the sinatra server
+
 ### Deliverables
 * List Airlines
     * Create a controller action which displays the `list_airlines` view
